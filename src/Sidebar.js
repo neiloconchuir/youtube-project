@@ -24,7 +24,6 @@ function Sidebar() {
       <SidebarRow Icon={WatchLaterSharpIcon} title="Watch Later" />
       <SidebarRow Icon={ThumbUpAltSharpIcon} title="Liked videos" />
       <SidebarRow Icon={ExpandMoreSharpIcon} title="Show more" />
-      <hr />
     </section>
   );
 }
